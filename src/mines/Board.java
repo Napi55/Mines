@@ -10,7 +10,9 @@ import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
-
+/**
+ * La classe Board représente le plateau de jeu pour le jeu de démineur.
+ */
 public class Board extends JPanel {
 	private static final long serialVersionUID = 6195235521361212179L;
 	
