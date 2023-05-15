@@ -5,7 +5,9 @@ import java.awt.BorderLayout;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-// Source: http://zetcode.com/tutorials/javagamestutorial/minesweeper/
+/**
+ * La classe Mines est la classe principale du jeu de démineur.
+ */
 
 public class Mines extends JFrame {
 	private static final long serialVersionUID = 4772165125287256837L;
