@@ -50,7 +50,16 @@ public Mines() {
 }
 
     
-    public static void main(String[] args) {
-        new Mines();
-    }
+   /**
+ * Point d'entrée du programme Minesweeper.
+ * Crée une nouvelle instance de la classe Mines pour lancer le jeu.
+ * @param args un tableau de chaînes de caractères contenant les arguments de la ligne de commande (non utilisé dans ce programme)
+ * @return none
+ */
+public static void main(String[] args) {
+
+    // Crée une nouvelle instance de la classe Mines pour lancer le jeu
+    new Mines();
+}
+
 }
